@@ -1,0 +1,6 @@
+hi 
+
+this ia names text file 
+i want to push this to git 
+to learn git and github i a using this
+
